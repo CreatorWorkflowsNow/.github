@@ -2,6 +2,8 @@
 
 Please contact Dale Stubblefield if you are interested in joining this GitHub Org. 
 
+It's main purpose is to allow Creator Workflow SCs a central place to perform Source Control operations for their apps and collaborate together. 
+
 <!--
 
 **Here are some ideas to get you started:**
