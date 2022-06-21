@@ -1,4 +1,2 @@
 # .github
-This is for the ReadMe
-
-It is a great file. 
+This is default repository for tracking the ReadMe file.
