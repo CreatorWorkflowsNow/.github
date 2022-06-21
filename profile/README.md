@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Please contact Dale Stubblefield if you are interested in joining this GitHub Org. 
+The main purpose of this GitHub Org is to allow Creator Workflow SCs a central place to perform Source Control operations for their apps and collaborate together. 
 
-It's main purpose is to allow Creator Workflow SCs a central place to perform Source Control operations for their apps and collaborate together. 
+Please contact Dale Stubblefield if you are interested in joining. 
+
 
 <!--
 
