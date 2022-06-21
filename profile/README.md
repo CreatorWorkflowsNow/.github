@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Please contact Dale Stubblefield if you are interested in joining this GitHub Org. 
+
 <!--
 
 **Here are some ideas to get you started:**
